@@ -1,0 +1,20 @@
+[
+    {
+        "rating": 4,
+        "brand": "Skinwaste",
+        "logo": "/assets/images/clients/skinwaste.png",
+        "message": "... very good service ..."
+    },
+    {
+        "rating": 5,
+        "brand": "Frank",
+        "logo": "/assets/images/clients/skinwaste.png",
+        "message": "OOPSIE"
+    },
+    {
+        "rating": 3,
+        "brand": "ruukiZ",
+        "logo": "/assets/images/clients/skinwaste.png",
+        "message": "I liek chocolate."
+    }
+]
